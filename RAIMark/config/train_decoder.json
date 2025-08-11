@@ -1,0 +1,13 @@
+{
+    "H": 256,
+    "W": 256,
+    "msg_length": 30,
+    "encode_weight": 1,
+    "lr": 1e-2,
+    "batch_size": 1,
+    "train_continue_epoch": 0,
+    "eval_epoch": 1,
+    "max_epoch": 1,
+    "noise_layers": ["Identity()"],
+    "devices": [0]
+}

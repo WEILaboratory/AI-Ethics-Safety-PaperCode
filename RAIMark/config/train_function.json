@@ -1,0 +1,10 @@
+{
+    "H": 256,
+    "W": 256,
+    "lr": 1e-2,
+    "lr_decay": 0,
+    "step_lr": 1,
+    "max_epoch": 1,
+    "PSNR": 40,
+    "device": 0
+}

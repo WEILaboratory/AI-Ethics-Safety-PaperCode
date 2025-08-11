@@ -1,0 +1,12 @@
+{
+    "samples": [[256, 256]],
+    "decoder_max_msg": 30,
+    "msg_length": 30,
+    "lr": 1e-2,
+    "loss_weight": [1, 1],
+    "decoder_name": "",
+    "eval_epoch": 1,
+    "max_epoch": 1,
+    "noise_layers": ["Identity()"],
+    "device": 0
+}
