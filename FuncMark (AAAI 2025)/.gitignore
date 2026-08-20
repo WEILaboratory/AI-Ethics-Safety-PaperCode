@@ -10,3 +10,5 @@ libtorch
 dataset
 *.txt
 *.png
+!dataset/prepare_batch.py
+!dataset/scripts.sh
